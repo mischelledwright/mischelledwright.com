@@ -214,8 +214,7 @@
             <div class="image-grid">
                 
                 <div class="image-card">
-                    <!-- Replace with your image paths -->
-                    <img src="images/art-piece-1.jpg" alt="Digital Artwork 1">
+                    <img src="YOUR_IMAGE_LINK_HERE" alt="Digital Artwork 1">
                 </div>
 
                 <div class="image-card">
